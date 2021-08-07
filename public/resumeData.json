@@ -1,17 +1,17 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Rahul Meghani",
+    "occupation": "Graduate Student at University of Windsor",
+    "description": "A Java dev, who's working hard to become a full stack dev",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Rahul! I've been working as a Java Developer with EG Verse Tech since 2019. I am a firm believer of the idea that learning should never stop and this ideology has made me to show up in this 5 day Airbnb Challenge. Big shout out to Sonny for doing this.",
+    "contactmessage": "Get in touch with me",
+    "email": "rahulmeghani36@gmail.com",
+    "phone": "+1 1234567899",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
+      "street": "123 Rankin Lane",
+      "city": "Brampton",
+      "state": "Ontario",
       "zip": "W3B D3V"
     },
     "website": "https://www.papareact.com/course",
@@ -24,22 +24,22 @@
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/rahulmeghani36",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/rahuljmeghani",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/netfreak.97/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/RaHuLMeghani24",
         "className": "fa fa-github"
       }
     ]
@@ -48,36 +48,36 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "University of Windsor - CA",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
+        "graduated": "August 2021",
         "description": "Graduated with First Class Honours"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "EG Verse Technological Solutions",
+        "title": "Software Engineer",
+        "years": "July 2019 - Present",
+        "description": "do {Java(), Python(), React(), AWS()} while(life)"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
         "level": "70%"
       },
       {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "75%"
       },
       {
         "name": "Web Development",
@@ -88,35 +88,26 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Web Search Engine (Java)",
         "category": "",
         "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
-      },
-      {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "url": "https://github.com/RaHuLMeghani24/WebSearchEngine"
       },
       {
         "title": "LinkedIn Clone (React JS)",
         "category": "",
         "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "url": "https://github.com/RaHuLMeghani24/react-linkedin-clone"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Rahul is absolutely excellent, his depth of knowledge & his idealogy that learning should never stops really meant a lot to us... I would definitely recommend",
+        "user": "Amy"
       }
+      
     ]
   }
 }
