@@ -1,4 +1,7 @@
 import React from "react";
+// import resume from '../utility/RahulJMeghani_coop.pdf';
+// import {Document, Page, pdfjs} from 'react-pdf';
+// pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`
 
 const About = ({ data }) => {
   if (data) {
@@ -47,9 +50,15 @@ const About = ({ data }) => {
             </div>
             <div className="columns download">
               <p>
-                <a href={resumeDownload} className="button">
+                {/* <a href={resumeDownload} className="button">
                   <i className="fa fa-download"></i>Download Resume
-                </a>
+                </a> */}
+                {/* <Document file={resume}
+                          onLoadError={console.error}
+                          style={{width:'100w', height:'auto'}}
+                >
+                  <Page pageIndex={0}></Page>
+                </Document> */}
               </p>
             </div>
           </div>
