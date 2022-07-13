@@ -2,14 +2,14 @@
   "main": {
     "name": "Rahul Meghani",
     "occupation": "Graduate Student at University of Windsor",
-    "description": "Looking to cement a place in Software engineering industry",
+    "description": "Currently working as a Software Engineer Intern at TD Bank",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Rahul! I'm pursuing my Masters degree in Applied Computing at University of Windsor. I am a firm believer of the idea that learning should never stop and this ideology has kept me going till date. I'm actively looking for co-op opportunities in Software engineering roles",
+    "bio": "Hi there! I am Rahul! I'm pursuing my Masters degree in Applied Computing at University of Windsor. I am a firm believer of the idea that learning should never stop and this ideology has kept me going till date. I'm actively looking for full-time opportunities in Software engineering roles",
     "contactmessage": "Get in touch with me",
     "email": "rahulmeghani36@gmail.com",
     "phone": "+1 (226) 724-1895",
     "address": {
-      "street": "California Ave",
+      "street": "",
       "city": "Windsor",
       "state": "Ontario",
       "zip": "N9B 2Z6"
@@ -58,10 +58,22 @@
     ],
     "work": [
       {
+        "company": "Toronto-Dominion Bank (TD Bank)",
+        "title": "Software Engineer Intern",
+        "years": "May 2022 - August 2022 (Expected)",
+        "description": "Automated user account consolidation across several platform including XLR, Jenkins, Github and LDAP. \n Migrated the on-premised database for the Onboarding project to Azure SQL Database using the Flyway API and Azure Jumpbox."
+      },
+      {
         "company": "EG Verse Technological Solutions",
         "title": "Business Analyst - Software Implementations",
         "years": "October 2020 - September 2021",
-        "description": "Supported projects throughout their entire lifecycle, incl. scoping, design, development, testing deployment and post-production"
+        "description": "Supported projects throughout their entire lifecycle, incl. scoping, design, development, testing deployment and post-production. Identified improvements in the Medallia Quickstart feedback products and processes using Apache DBCP, lazy Initialization and caching techniques resulting in improved response time from 1200ms to 750ms. Worked as a technical expert with clients, analysts, and programmers to develop technical solutions to complex business problems. Created Epic, Feature, User Story in JIRA, conducted backlog grooming with SCRUM teams, facilitate demos and accepted features."
+      },
+      {
+        "company": "SoftVan Pvt Ltd.",
+        "title": "Software Developer Intern",
+        "years": "January 2018 - April 2018",
+        "description": "Automated the manual process of document verification by web application, making it fast and convenient using distributed database (Cassandra) and configuring AWS load balancer resulting in 30% improvement in performance. Integrated different features like capturing data from files (images & pdfs) and adding the scanned data to the web-form resulting in increasing the conversion rate from prospect to loan from 17% to 30%."
       }
     ],
     "skills": [
