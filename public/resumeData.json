@@ -71,9 +71,9 @@
       },
       {
         "company": "SoftVan Pvt Ltd.",
-        "title": "Software Developer Intern",
-        "years": "January 2018 - April 2018",
-        "description": "Automated the manual process of document verification by web application, making it fast and convenient using distributed database (Cassandra) and configuring AWS load balancer resulting in 30% improvement in performance. Integrated different features like capturing data from files (images & pdfs) and adding the scanned data to the web-form resulting in increasing the conversion rate from prospect to loan from 17% to 30%."
+        "title": "Software Developer",
+        "years": "January 2019 - March 2020",
+        "description": "Automated the manual process of document verification by web application, making it fast and convenient using distributed database (Cassandra) and configuring AWS load balancer resulting in 21% improvement in performance. Designed and developed reusable components involving React, Redux, and Typescript. Gained fundamental experience in SpringBoot, REST, Maven, Hibernate."
       }
     ],
     "skills": [
