@@ -280,7 +280,9 @@ ul#nav li.current a { color: #F06000; }
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
-
+#resume .workDesc{
+   white-space: initial;
+}
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/

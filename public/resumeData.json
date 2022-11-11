@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Rahul Meghani",
-    "occupation": "Graduate Student at University of Windsor",
-    "description": "Currently working as a Software Engineer Intern at TD Bank",
+    "occupation": "",
+    "description": "Currently looking for the full time opportunities in the Software Engineering Industry",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Rahul! I'm pursuing my Masters degree in Applied Computing at University of Windsor. I am a firm believer of the idea that learning should never stop and this ideology has kept me going till date. I'm actively looking for full-time opportunities in Software engineering roles",
+    "bio": "Hi there! I am Rahul! I have a Master's degree in Applied Computing from the University of Windsor. I am a firm believer of the idea that learning should never stop and this ideology has kept me going till date. I'm actively looking for full-time opportunities in Software engineering roles",
     "contactmessage": "Get in touch with me",
     "email": "rahulmeghani36@gmail.com",
     "phone": "+1 (226) 724-1895",
@@ -47,33 +47,33 @@
         "school": "Gujarat Technological University (India)",
         "degree": "Bachelors of Engineering, Computer Engineering",
         "graduated": "June 2019",
-        "description": "Graduated with First Class Honours. Relevant Coursework: Object Oriented Programming, Operating System, Software Engineering"
+        "description": "Graduated with First Class Honours. Relevant Coursework: Object Oriented Programming, Data Structures, Operating System, Software Engineering"
       },
       {
         "school": "University of Windsor - CA",
         "degree": "Master's Degree, Applied Computing",
-        "graduated": "September 2022 (Expected)",
-        "description": "Relevant Coursework: Advanced Computing Concepts, Advanced Software Engineering topics, Distributed Databases, Big Data Management and Analytics, Computer Networks and Security"
+        "graduated": "September 2022",
+        "description": "Relevant Coursework: Advanced Computing Concepts, Advanced Software Engineering topics, Distributed Databases"
       }
     ],
     "work": [
       {
         "company": "Toronto-Dominion Bank (TD Bank)",
         "title": "Software Engineer Intern",
-        "years": "May 2022 - August 2022 (Expected)",
-        "description": "Automated user account consolidation across several platform including XLR, Jenkins, Github and LDAP. \n Migrated the on-premised database for the Onboarding project to Azure SQL Database using the Flyway API and Azure Jumpbox."
+        "years": "May 2022 - August 2022",
+        "description": " Automated & managed user account consolidation across several platforms including Github, Jenkins, bitbucket and LDAP. \n \n Migrated & documented the on-premised database for the Onboarding project to Azure cloud using the Flyway and Azure Jumpbox, securing backup and high availability. \n \n Part of the development of the internal KPI website: Django backend automation with REST API development (incl. documentation) enhancing the existing features. "
       },
       {
         "company": "EG Verse Technological Solutions",
-        "title": "Business Analyst - Software Implementations",
+        "title": "Software Designer",
         "years": "October 2020 - September 2021",
-        "description": "Supported projects throughout their entire lifecycle, incl. scoping, design, development, testing deployment and post-production. Identified improvements in the Medallia Quickstart feedback products and processes using Apache DBCP, lazy Initialization and caching techniques resulting in improved response time from 1200ms to 750ms. Worked as a technical expert with clients, analysts, and programmers to develop technical solutions to complex business problems. Created Epic, Feature, User Story in JIRA, conducted backlog grooming with SCRUM teams, facilitate demos and accepted features."
+        "description": " Supported projects throughout their entire software lifecycle, incl. design, development, testing, deployment and post-production achieving a higher satisfaction ratio from clients across North America. \n \n Partnered with backend developers and created dynamic web pages using Javascript and Django framework, increasing website leads by 15%. \n \n Built dynamic surveys for Medallia (SaaS) clients leveraging React JS, Redux and Node JS, capturing the user response in the Medallia experience cloud for business analysis. \n \n Created Epic, Feature, Product requirements, User Story in JIRA, and managed software workflow using Scrum methodology, increasing the task success rate by 25%."
       },
       {
         "company": "SoftVan Pvt Ltd.",
         "title": "Software Developer",
         "years": "January 2019 - March 2020",
-        "description": "Automated the manual process of document verification by web application, making it fast and convenient using distributed database (Cassandra) and configuring AWS load balancer resulting in 21% improvement in performance. Designed and developed reusable components involving React, Redux, and Typescript. Gained fundamental experience in SpringBoot, REST, Maven, Hibernate."
+        "description": "Worked on multiple software projects simultaneously and participated in the whole software development process from design to implementation and delivery. \n\n Created responsive, accessible, reusable and performant UIs using ReactJS, Redux & GraphQL for more than 5 different projects \n\n Built web services with J2EE using Spring MVC, Spring IOC, Spring Transactions, Spring security modules and REST APIs that were used by the customer-facing applications to improve the time on page for the average user by 2 minutes. \n\n Automated the manual process of document verification by the web application, making it fast and convenient using a distributed database (Cassandra) and configuring AWS load balancer, achieving a 21% improvement in performance and scalability. "
       }
     ],
     "skills": [

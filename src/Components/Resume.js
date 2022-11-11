@@ -1,5 +1,4 @@
 import React from "react";
-
 const Resume = ({ data }) => {
   if (data) {
     var skillmessage = data.skillmessage;
@@ -23,7 +22,7 @@ const Resume = ({ data }) => {
             {work.title}
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
-          <p>{work.description}</p>
+          <p style={{whiteSpace: 'pre-line'}}>{work.description}</p>
         </div>
       );
     });
