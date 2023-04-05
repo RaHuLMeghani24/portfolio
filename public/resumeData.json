@@ -4,7 +4,7 @@
     "occupation": "",
     "description": "Currently looking for the full time opportunities in the Software Engineering Industry",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Rahul! I have a Master's degree in Applied Computing from the University of Windsor. I am a firm believer of the idea that learning should never stop and this ideology has kept me going till date. I'm actively looking for full-time opportunities in Software engineering roles",
+    "bio": "Hi there! I am Rahul. Results-driven Software Engineer with 2.5 years of experience in full-stack development, project management, and implementing eCommerce and SaaS web-based applications. Proficient in Java, Python and NodeJS with a track record of delivering user-centered websites that scale. Strong background in agile development and cross-functional team collaboration.",
     "contactmessage": "Get in touch with me",
     "email": "rahulmeghani36@gmail.com",
     "phone": "+1 (226) 724-1895",
@@ -17,7 +17,6 @@
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
     "social": [
-      
       {
         "name": "facebook",
         "url": "https://www.facebook.com/rahulmeghani36",
@@ -53,7 +52,7 @@
         "school": "University of Windsor - CA",
         "degree": "Master's Degree, Applied Computing",
         "graduated": "September 2022",
-        "description": "Relevant Coursework: Advanced Computing Concepts, Advanced Software Engineering topics, Distributed Databases"
+        "description": "Graduated with First Class Honours. Relevant Coursework: Advanced Computing Concepts, Advanced Software Engineering topics, Distributed Databases"
       }
     ],
     "work": [
@@ -61,19 +60,19 @@
         "company": "Toronto-Dominion Bank (TD Bank)",
         "title": "Software Engineer Intern",
         "years": "May 2022 - August 2022",
-        "description": " Automated & managed user account consolidation across several platforms including Github, Jenkins, bitbucket and LDAP. \n \n Migrated & documented the on-premised database for the Onboarding project to Azure cloud using the Flyway and Azure Jumpbox, securing backup and high availability. \n \n Part of the development of the internal KPI website: Django backend automation with REST API development (incl. documentation) enhancing the existing features. "
+        "description": " • Implemented an automation solution for account consolidation across GitHub, Jenkins, Bitbucket, and LDAP, resulting in enhanced system efficiency and streamlined user account management. \n \n • Spearheaded the migration of an on-premises database to Azure cloud using Flyway and Azure Jump box, ensuring data security, seamless backups, and high availability for the Onboarding project. \n \n • Contributed to the development and improvement of an internal KPI website using Django and REST API, enhancing the platform's usability and value for data-driven decision-making. "
       },
       {
         "company": "EG Verse Technological Solutions",
         "title": "Software Designer",
         "years": "October 2020 - September 2021",
-        "description": " Supported projects throughout their entire software lifecycle, incl. design, development, testing, deployment and post-production achieving a higher satisfaction ratio from clients across North America. \n \n Partnered with backend developers and created dynamic web pages using Javascript and Django framework, increasing website leads by 15%. \n \n Built dynamic surveys for Medallia (SaaS) clients leveraging React JS, Redux and Node JS, capturing the user response in the Medallia experience cloud for business analysis. \n \n Created Epic, Feature, Product requirements, User Story in JIRA, and managed software workflow using Scrum methodology, increasing the task success rate by 25%."
+        "description": " • Managed end-to-end software lifecycle for multiple projects, consistently achieving high client satisfaction and timely delivery across North America. \n \n • Collaborated with backend developers to create dynamic web pages using JavaScript and Django framework, resulting in a 15% increase in website leads.\n \n • Developed and implemented React JS, Redux, and Node JS surveys for Medallia (SaaS) clients, effectively capturing user responses for comprehensive business analysis in the Medallia Experience Cloud. \n \n • Ensured product quality through rigorous testing, code reviews, and team collaboration, identifying and addressing issues during the development process. \n \n • Leveraged Scrum methodology and JIRA to optimize software workflow management, increasing task success rate by 25%."
       },
       {
         "company": "SoftVan Pvt Ltd.",
         "title": "Software Developer",
         "years": "January 2019 - March 2020",
-        "description": "Worked on multiple software projects simultaneously and participated in the whole software development process from design to implementation and delivery. \n\n Created responsive, accessible, reusable and performant UIs using ReactJS, Redux & GraphQL for more than 5 different projects \n\n Built web services with J2EE using Spring MVC, Spring IOC, Spring Transactions, Spring security modules and REST APIs that were used by the customer-facing applications to improve the time on page for the average user by 2 minutes. \n\n Automated the manual process of document verification by the web application, making it fast and convenient using a distributed database (Cassandra) and configuring AWS load balancer, achieving a 21% improvement in performance and scalability. "
+        "description": "• Delivered high-quality results on time and within budget by actively participating in the complete software development process for multiple projects.\n \n • Designed and developed responsive, accessible, and high-performance UIs using ReactJS, Redux & GraphQL for over five projects, earning positive feedback from clients. \n \n • Enhanced user experience by implementing web services with J2EE using Spring MVC, Spring IOC, Spring Transactions, Spring security modules, and REST APIs, increasing average user time on page by 2 minutes. \n \n •  Developed and integrated microservices for inventory, scheduling, billing, currency exchange, and content management, significantly boosting online sales for a major Indian clothing brand. "
       }
     ],
     "skills": [
@@ -94,7 +93,7 @@
         "level": "75%"
       },
       {
-        "name": "Web Development",
+        "name": "Node JS",
         "level": "95%"
       }
     ]
@@ -133,7 +132,6 @@
         "text": "Rahul is a pleasure to work with! He takes initiative, troubleshoots with an open mind and determination, and has become a true Medallia software implementer and guru. I highly recommend Rahul to any team, with no hesitation. I can’t wait to see what he does next!",
         "user": "Amy (via LinkedIn)"
       }
-      
     ]
   }
 }
