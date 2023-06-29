@@ -70,7 +70,7 @@ const Header = ({ data }) => {
           </h1>
           <div >
           <h3>
-            Based in {city}. <span>{occupation}</span>. {description}.
+            Based in {city} <span>{occupation}</span>. {description}.
           </h3>
           </div>
           <hr />

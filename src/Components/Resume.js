@@ -1,5 +1,4 @@
 import React from "react";
-
 const Resume = ({ data }) => {
   if (data) {
     var skillmessage = data.skillmessage;
