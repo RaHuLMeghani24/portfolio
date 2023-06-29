@@ -17,7 +17,6 @@
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
     "social": [
-      
       {
         "name": "facebook",
         "url": "https://www.facebook.com/rahulmeghani36",
@@ -52,16 +51,44 @@
       {
         "school": "University of Windsor - CA",
         "degree": "Master's Degree, Applied Computing",
-        "graduated": "September 2022 (Expected)",
+        "graduated": "September 2022",
         "description": "Relevant Coursework: Advanced Computing Concepts, Advanced Software Engineering topics, Distributed Databases, Big Data Management and Analytics, Computer Networks and Security"
       }
     ],
     "work": [
       {
+        "company": "Toronto-Dominion Bank (TD Bank)",
+        "title": "Software Engineer Intern",
+        "years": "May 2022 - August 2022",
+        "description": [
+          " • Part of the Enterprise payments team, played a crucial role in the development and maintenance of the Interac APIs built using Spring Cloud. Monitored a substantial volume of transactions, exceeding 300,000 in a single day, utilizing Splunk to analyze logs and ensure smooth operations.",
+          " • Spearheaded the migration of an on-premises database to Azure cloud using Flyway API and Azure Jump box, ensuring data security, seamless backups, and reduce costs by $9000 per year. ",
+          " • Contributed to internal TD Onboarding platform using Django RESTful APIs, ensuring optimal performance and adherence to industry best practices."
+        ]
+      },
+      {
         "company": "EG Verse Technological Solutions",
-        "title": "Business Analyst - Software Implementations",
+        "title": "Software Designer",
         "years": "October 2020 - September 2021",
-        "description": "Supported projects throughout their entire lifecycle, incl. scoping, design, development, testing deployment and post-production"
+        "description": [
+          " • Collaborated with cross-functional teams of developers, business analysts, and quality analysts to design, develop, and deploy software solutions that meet business requirements.",
+          "• Enhanced the user experience by developing visually appealing and intuitive interfaces using NodeJS, ReactJS, MaterialUI and Redux for Medallia QuickStart services, resulting in a 20% reduction in bounce rates.",
+          "• Implemented GraphQL schemas and resolvers to enable seamless communication between client applications and backend services, ensuring clear and efficient data retrieval and manipulation.",
+          " • Optimized the entire code base, implemented ‘on demand data loading’ design pattern and caching mechanisms which reduced page load time by 60% and the view state by 100KB.",
+          "• Played a key role in enhancing the company website by implementing a robust job application functionality using Django MVT, resulting in a significant increase in the flow of applications due to the successful elimination of numerous bugs present in the previous version."
+        ]
+      },
+      {
+        "company": "SoftVan Pvt Ltd.",
+        "title": "Software Developer",
+        "years": "January 2019 - March 2020",
+        "description": [
+          "• Transformed the monolithic website to microservices and implemented: currency exchange, product catalog and billing services using Spring Cloud and AWS, leading to a significant boost in online sales for a major Indian clothing brand.",
+          "• Managed, designed and developed a dashboard control panel for more than 10 clients using Django MVT, PostgreSQL and AI modules incl. features like reporting, AI driven insights, risk-mitigation and compliance tracking. ",
+          " • Implemented authentication and authorization mechanisms using GraphQL directives or middleware libraries like Passport.js, ensuring secure access to protected resources and enforcing user roles and permissions. ",
+          "• Eliminated security threats and vulnerabilities, such as cross-site scripting (XSS), SQL injection, and broken access control in the legacy codebase. Passed the security review successfully with a less false positive rate of around 6%.",
+          "• Automated the manual process of document verification by the web application, making it fast and convenient using a distributed database (Cassandra), Java RESTful APIs and configuring AWS load balancer, achieving a 21% improvement in performance and scalability."
+        ]
       }
     ],
     "skills": [
@@ -121,7 +148,6 @@
         "text": "Rahul is a pleasure to work with! He takes initiative, troubleshoots with an open mind and determination, and has become a true Medallia software implementer and guru. I highly recommend Rahul to any team, with no hesitation. I can’t wait to see what he does next!",
         "user": "Amy (via LinkedIn)"
       }
-      
     ]
   }
 }
